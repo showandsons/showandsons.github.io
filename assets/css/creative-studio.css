@@ -11981,3 +11981,23 @@ section .section-title {
     display: none;
   }
 }
+
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.whatsapp-button img {
+  width: 60px; /* Adjust the width and height as needed */
+  height: 60px; /* Adjust the width and height as needed */
+}
